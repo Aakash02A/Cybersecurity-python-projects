@@ -92,6 +92,7 @@ The script:
 chr((ord(char) - base + shift) % 26 + base)
 ```
 
+
 * `ord(char)` – ASCII of char
 * `base` – `ord('a')` or `ord('A')`
 * `shift` – Provided shift value
