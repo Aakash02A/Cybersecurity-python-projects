@@ -27,3 +27,4 @@ if __name__ == "__main__":
     else:
         print("[-] Key must be between 0 and 255.")
 
+
