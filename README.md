@@ -11,10 +11,10 @@ A collection of beginner-level Python tools to understand cybersecurity concepts
 
 | Tool Name                  | Description                                                                 | Key Concepts                           | Link                                         |
 |---------------------------|-----------------------------------------------------------------------------|----------------------------------------|----------------------------------------------|
-| **Password Strength Checker** | Evaluates password strength based on length, character types, etc.         | Input validation, regex, logic         | [Go to Tool](./password_strength_checker/)   |
-| **Image Encryption Tool**     | Encrypts images via pixel manipulation (swapping, math ops)               | Image data, loops, pixel math          | [Go to Tool](./image_encryption_tool/)       |
-| **Caesar Cipher**             | Classic text encryption/decryption using character shifting               | ASCII operations, strings, logic       | [Go to Tool](./caesar_cipher/)               |
-| **Keylogger**                 | Logs user keystrokes to a file (ethical use only)                         | File I/O, OS-level hooks, event capture| [Go to Tool](./keylogger/)                   |
+| **Password Strength Checker** | Evaluates password strength based on length, character types, etc.         | Input validation, regex, logic         | [Go to Tool]( 'Password Strength Checker/')   |
+| **Image Encryption Tool**     | Encrypts images via pixel manipulation (swapping, math ops)               | Image data, loops, pixel math          | [Go to Tool]('Image Encryption/' )       |
+| **Caesar Cipher**             | Classic text encryption/decryption using character shifting               | ASCII operations, strings, logic       | [Go to Tool]('Caesar Cipher/' )               |
+| **Keylogger**                 | Logs user keystrokes to a file (ethical use only)                         | File I/O, OS-level hooks, event capture| [Go to Tool](' Keylogger/')                   |
 
 ---
 
