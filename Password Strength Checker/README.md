@@ -19,7 +19,7 @@ A simple Python CLI tool to check the strength of a password using regular expre
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/password-strength-checker.git
+    git clone https://github.com/Aakash02A/password-strength-checker.git
     cd password-strength-checker
     ```
 
@@ -40,13 +40,8 @@ python password_checker.py
 
 Then enter your password when prompted:
 
-bash
-Copy
-Edit
 🔐 Password Strength Checker
-
 Enter your password: MyP@ssw0rd
-
 Password Strength: 🟢 Strong
 
 ---
