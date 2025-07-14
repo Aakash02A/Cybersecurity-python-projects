@@ -36,8 +36,6 @@ This repository is strictly for educational purposes. Do not use any tools from 
 git clone https://github.com/yourusername/basic-cybersecurity-tools.git
 cd basic-cybersecurity-tools
 ```
-
 ---
 
-## Build By AAKASH
-
+## Build by AAKASH
