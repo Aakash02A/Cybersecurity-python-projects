@@ -35,14 +35,11 @@ Run the script from the command line:
 ```bash
 python password_checker.py
 ```
-
----
-
 Then enter your password when prompted:
 
-🔐 Password Strength Checker
-Enter your password: MyP@ssw0rd
-Password Strength: 🟢 Strong
+- 🔐 Password Strength Checker
+- Enter your password: MyP@ssw0rd
+- Password Strength: 🟢 Strong
 
 ---
 
