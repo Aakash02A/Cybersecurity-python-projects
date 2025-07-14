@@ -78,17 +78,7 @@ Located in the same folder as the script.
   - Timestamp for each keystroke
   - Email log every X minutes (for ethical monitoring use only)
   - Stealth mode (advanced)
-
+  - 
 ---
 
-## 🧱 Folder Structure
-
-```
-Keylogger/
-├── keylogger.py        # Main script
-└── keylog.txt          # Captured keystrokes
-```
-
----
-
-# Build by AAKASH
+# Build by AAKASH and RAHUL
