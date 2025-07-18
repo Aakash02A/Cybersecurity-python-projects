@@ -15,7 +15,6 @@ def xor_encrypt_decrypt(input_path, output_path, key):
     except Exception as e:
         print(f"[-] Error: {str(e)}")
 
-# Example usage
 if __name__ == "__main__":
     print("Image Encryption/Decryption Tool")
     input_file = input("Enter image path: ")
